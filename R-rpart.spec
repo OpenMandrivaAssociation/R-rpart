@@ -7,7 +7,7 @@ Release:          1
 Summary:          Recursive Partitioning and Regression Trees
 Group:            Sciences/Mathematics
 License:          GPL-2 | GPL-3
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_4.1-8.tar.gz
 
 Requires:         R-graphics R-stats R-grDevices 
